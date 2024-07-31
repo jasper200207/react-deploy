@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.689b7bff.css",
+    "main.js": "/static/js/main.17d0f7cd.js",
+    "static/js/926.c169abc0.chunk.js": "/static/js/926.c169abc0.chunk.js",
+    "static/js/294.52655ee5.chunk.js": "/static/js/294.52655ee5.chunk.js",
+    "static/media/Spinner.svg": "/static/media/Spinner.e654c3105194832da8e83ca6878cf855.svg",
+    "static/media/kakao_logo.svg": "/static/media/kakao_logo.60e99555125ae4c4b8f23f6c5faee9ec.svg",
+    "index.html": "/index.html",
+    "main.689b7bff.css.map": "/static/css/main.689b7bff.css.map",
+    "main.17d0f7cd.js.map": "/static/js/main.17d0f7cd.js.map",
+    "926.c169abc0.chunk.js.map": "/static/js/926.c169abc0.chunk.js.map",
+    "294.52655ee5.chunk.js.map": "/static/js/294.52655ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.689b7bff.css",
+    "static/js/main.17d0f7cd.js"
+  ]
+}
