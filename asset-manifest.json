@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.689b7bff.css",
-    "main.js": "/react-deploy/static/js/main.8c2a6d40.js",
+    "main.js": "/react-deploy/static/js/main.b3a44c90.js",
     "static/js/926.c169abc0.chunk.js": "/react-deploy/static/js/926.c169abc0.chunk.js",
     "static/js/294.532986b7.chunk.js": "/react-deploy/static/js/294.532986b7.chunk.js",
     "static/media/Spinner.svg": "/react-deploy/static/media/Spinner.e654c3105194832da8e83ca6878cf855.svg",
     "static/media/kakao_logo.svg": "/react-deploy/static/media/kakao_logo.60e99555125ae4c4b8f23f6c5faee9ec.svg",
     "index.html": "/react-deploy/index.html",
     "main.689b7bff.css.map": "/react-deploy/static/css/main.689b7bff.css.map",
-    "main.8c2a6d40.js.map": "/react-deploy/static/js/main.8c2a6d40.js.map",
+    "main.b3a44c90.js.map": "/react-deploy/static/js/main.b3a44c90.js.map",
     "926.c169abc0.chunk.js.map": "/react-deploy/static/js/926.c169abc0.chunk.js.map",
     "294.532986b7.chunk.js.map": "/react-deploy/static/js/294.532986b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.689b7bff.css",
-    "static/js/main.8c2a6d40.js"
+    "static/js/main.b3a44c90.js"
   ]
 }
